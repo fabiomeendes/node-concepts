@@ -11,7 +11,7 @@ try {
 
     const emp = employees.filter(chinenes).filter(women).reduce(lowerSalary);
 
-    console.log(emp, 'emp');
+    // console.log(emp, 'emp');
   });
 } catch (err) {
   throw new Error(err);
