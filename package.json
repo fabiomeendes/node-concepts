@@ -4,8 +4,8 @@
   "description": "",
   "main": "employees.js",
   "scripts": {
-    "start": "nodemon",
-    "dev": "nodemon",
+    "start": "nodemon", // npm start
+    // "dev": "nodemon", npm run dev(any name)
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
