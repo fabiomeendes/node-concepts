@@ -7,3 +7,5 @@ stop = crtl + alt + n
 npm i -g nodemon
 npm install --save-dev nodemon
 npm start
+
+npm i --save body-parser@1.18.2 -E
