@@ -1,0 +1,7 @@
+npm init -y
+npm i --save express@4.16.2 -E
+run = crtl + alt + n
+stop = crtl + alt + n
+
+npm i -g nodemon
+npm install --save-dev nodemon
