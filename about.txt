@@ -2,3 +2,11 @@ npm init -y
 npm i --save axios
 
 run = crtl + alt + n
+
+npm i node-schedule@1.3.0 -E
+
+"scripts": {
+  "start": "nodemon", // npm start
+  // "dev": "nodemon", npm run dev(any name)
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
